@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2014 The CyanogenMod Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <!-- Application name -->
+    <string name="cm_application_name" translatable="false">JLauncher</string>
+    
+    <string name="application_name" translatable="true">JLauncher</string>
+    
+    <string name="home_screen_settings">HOME SCREEN SETTINGS</string>
+    <string name="drawer_settings">DRAWER SETTINGS</string>
+    <string name="app_settings">APP SETTINGS</string>
+
+    <!-- Settings states -->
+    <string name="setting_state_on">ON</string>
+    <string name="setting_state_off">OFF</string>
+    <string name="setting_state_disabled">DISABLED</string>
+
+    <!-- Folder titles -->
+    <string name="google_title" translatable="false">Google</string>
+    <string name="play_folder_title">Play</string>
+    <string name="partner_title" translatable="false"></string>
+
+    <!-- Wallpaper scroll effect -->
+    <string name="scrolling_wallpaper">Scroll wallpaper</string>
+
+    <!-- Dynamic Grid -->
+    <string name="grid_size_text">Grid size</string>
+    <string name="grid_size_comfortable">Comfortable</string>
+    <string name="grid_size_cozy">Cozy</string>
+    <string name="grid_size_condensed">Condensed</string>
+    <string name="grid_size_custom">Custom (<xliff:g id="rows">%1$d</xliff:g> \u00d7 <xliff:g id="columns">%2$d</xliff:g>)</string>
+    <string name="preferences_interface_homescreen_custom">Select custom size</string>
+
+    <!-- Dialog -->
+    <string name="dialog_confirm">Confirm</string>
+
+    <!-- Home screen search bar -->
+    <string name="home_screen_search_text">Search bar</string>
+
+    <!-- Larger icons -->
+    <string name="larger_icons_text">Larger icons</string>
+
+    <!-- Icon labels -->
+    <string name="icon_labels">Icon labels</string>
+    <string name="icon_labels_show">Show</string>
+    <string name="icon_labels_hide">Hide</string>
+
+    <!-- Protected apps -->
+    <string name="protected_app_settings">Protected apps</string>
+
+    <!-- Drawer settings -->
+    <string name="app_drawer_style">Drawer style</string>
+    <string name="app_drawer_style_compact">Compact</string>
+    <string name="app_drawer_style_sections">Sections</string>
+    <string name="app_drawer_color">Drawer color</string>
+    <string name="app_drawer_color_dark">Dark</string>
+    <string name="app_drawer_color_light">Light</string>
+    <string name="fast_scroller">Fast scroller</string>
+    <string name="fast_scroller_type">Fast scroller type</string>
+    <string name="fast_scroller_type_horizontal">Horizontal</string>
+    <string name="fast_scroller_type_vertical">Vertical</string>
+
+    <!-- Search Manager doesn't exist -->
+    <string name="search_activity_not_found">A search activity could not be found!</string>
+
+    <!-- App not available toast text -->
+    <string name="app_not_available">App not available</string>
+
+    <!-- Effect -->
+    <string name="launcher_effect">Launcher effect</string>
+    <string name="effect_none">None</string>
+    <string name="effect_zoom_in">Zoom in</string>
+    <string name="effect_zoom_out">Zoom out</string>
+    <string name="effect_rotate_up">Rotate up</string>
+    <string name="effect_rotate_down">Rotate down</string>
+    <string name="effect_cube_in">Cube in</string>
+    <string name="effect_cube_out">Cube out</string>
+    <string name="effect_stack">Stack</string>
+    <string name="effect_accordion">Accordion</string>
+    <string name="effect_flip">Flip</string>
+    <string name="effect_cylinder_in">Cylinder in</string>
+    <string name="effect_cylinder_out">Cylinder out</string>
+    <string name="effect_carousel">Carousel</string>
+    <string name="effect_overview">Overview</string>
+    <string name="effect_cross">Cross</string>
+
+</resources>
